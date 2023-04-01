@@ -2,7 +2,7 @@
 
 
 
-<iframe width="50%" src="https://user-images.githubusercontent.com/106000983/229266026-a802eaa9-6e42-46ea-b878-75feb4666115.mp4">
+<img width="30%" src="https://user-images.githubusercontent.com/106000983/229266026-a802eaa9-6e42-46ea-b878-75feb4666115.mp4">
 
 
 
