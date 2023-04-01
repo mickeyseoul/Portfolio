@@ -1,25 +1,4 @@
 # Portfolio
 <img width="80%" src="https://user-images.githubusercontent.com/106000983/229264977-07f5db07-2b80-480b-9580-4cd0525fb36b.jpg">
-<img width="80%" src="https://user-images.githubusercontent.com/106000983/229265060-27081dac-9953-4ffc-909f-01ac66ce1834.jpg">
-<img width="80%" src="https://user-images.githubusercontent.com/106000983/229265062-64675f65-d834-4668-ac42-5f8115e13a29.jpg)">
-<img width="80%" src="https://user-images.githubusercontent.com/106000983/229265064-e93d4fad-3afb-4f88-89dd-85c50cebe5eb.jpg)">
-<img width="80%" src="https://user-images.githubusercontent.com/106000983/229265066-1c2368d8-4772-4f5d-97f1-b21dfc63868e.jpg)">
-<img width="80%" src="https://user-images.githubusercontent.com/106000983/229265069-9027a394-88e7-4266-8975-130837812e43.jpg)">
-<img width="80%" src="https://user-images.githubusercontent.com/106000983/229265071-f22082f0-317a-4a27-b00f-327c824b105b.jpg)">
-<img width="80%" src="https://user-images.githubusercontent.com/106000983/229265073-e5739558-185b-4866-993a-985dc78a7fd9.jpg)">
-<img width="80%" src="https://user-images.githubusercontent.com/106000983/229265075-24f13fc8-55eb-4e12-99b8-8123b2a28e29.jpg)">
-<img width="80%" src="https://user-images.githubusercontent.com/106000983/229265077-d023622e-64bb-4dc1-9a83-d348c50fabf3.jpg)">
-<img width="80%" src="https://user-images.githubusercontent.com/106000983/229265079-515ab9ab-e211-4107-8e61-bb09a6efa818.jpg)">
-<img width="80%" src="https://user-images.githubusercontent.com/106000983/229265080-ad224d0b-5bcc-4e2c-a2df-2a5513328163.jpg)">
-<img width="80%" src="https://user-images.githubusercontent.com/106000983/229265081-cb56c6c5-4676-4752-878e-60285ec3b4b5.jpg)">
-<img width="80%" src="https://user-images.githubusercontent.com/106000983/229265083-922bf651-fafd-4f7f-82e0-8f11591f0365.jpg)">
-<img width="80%" src="https://user-images.githubusercontent.com/106000983/229265084-8c5b866a-b603-44a6-ab21-c105601f6940.jpg)">
-<img width="80%" src="https://user-images.githubusercontent.com/106000983/229265085-49cd95d6-7554-4662-a12d-9e772a67851e.jpg)">
-<img width="80%" src="https://user-images.githubusercontent.com/106000983/229265086-5397b234-e0c4-4baa-93f3-ac147e6c12c2.jpg)">
-<img width="80%" src="https://user-images.githubusercontent.com/106000983/229265087-c5c6099a-58ba-462d-9582-8dae8805f57a.jpg)">
-<img width="80%" src="https://user-images.githubusercontent.com/106000983/229265088-4e2a4de2-da55-429e-8dd7-ab580e0dc675.jpg)">
-<img width="80%" src="https://user-images.githubusercontent.com/106000983/229265089-95918973-e23b-41ec-b535-f3b8d22dbce7.jpg)">
-<img width="80%" src="https://user-images.githubusercontent.com/106000983/229265092-e8be0071-dab9-4780-b476-1f5fd7d0ed1f.jpg)">
-<img width="80%" src="https://user-images.githubusercontent.com/106000983/229265093-f4eddb66-3014-4cd2-a3f0-13eeb5b4736b.jpg)">
-<img width="80%" src="https://user-images.githubusercontent.com/106000983/229265094-d3d85933-d649-43f9-b557-36fec03960ec.jpg)">
-<img width="80%" src="https://user-images.githubusercontent.com/106000983/229265095-1cedf9b0-ca28-4062-8c87-3b5f608ac301.jpg)">
+![슬라이드0001](https://user-images.githubusercontent.com/106000983/229265236-719dd5ba-fb46-486a-a6fa-7484dbb05681.jpg)
+
